@@ -6,5 +6,5 @@ export function CompletedChalanges() {
       <span>Desafios completos</span>
       <span>5</span>
     </div>
-  )
+  );
 }

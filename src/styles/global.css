@@ -36,7 +36,8 @@ body {
 }
 
 body, input, textarea, button {
-  font: 400 16rem "Inter", sans-serif;
+  /* font: 400 16rem Calibri; */
+  font: 400 16rem;
 }
 
 button {
